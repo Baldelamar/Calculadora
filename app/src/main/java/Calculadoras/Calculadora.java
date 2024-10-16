@@ -1,3 +1,5 @@
+package Calculadoras;
+
 public  class Calculadora {
     private Double operando1;
     private Double operando2;
@@ -44,3 +46,4 @@ public  class Calculadora {
         operador = null;
     }
 }
+

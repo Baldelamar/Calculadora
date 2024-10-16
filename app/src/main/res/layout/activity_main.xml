@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/white"
     tools:context=".MainActivity">
 
     <!--Display-->
@@ -51,25 +52,25 @@
         android:weightSum="4">
 
         <Button
-            android:id="@+id/btn7"
+            android:id="@+id/btnN7"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="7" />
         <Button
-            android:id="@+id/btn8"
+            android:id="@+id/btnN8"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="8" />
         <Button
-            android:id="@+id/btn9"
+            android:id="@+id/btnN9"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="9" />
         <Button
-            android:id="@+id/btnDivide"
+            android:id="@+id/btnDivision"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -86,25 +87,25 @@
         android:weightSum="4">
 
         <Button
-            android:id="@+id/btn4"
+            android:id="@+id/btnN4"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="4" />
         <Button
-            android:id="@+id/btn5"
+            android:id="@+id/btnN5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="5" />
         <Button
-            android:id="@+id/btn6"
+            android:id="@+id/btnN6"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="6" />
         <Button
-            android:id="@+id/btnMultiply"
+            android:id="@+id/btnMultiplicar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -121,25 +122,25 @@
         android:weightSum="4">
 
         <Button
-            android:id="@+id/btn1"
+            android:id="@+id/btnN1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="1" />
         <Button
-            android:id="@+id/btn2"
+            android:id="@+id/btnN2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="2" />
         <Button
-            android:id="@+id/btn3"
+            android:id="@+id/btnN3"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="3" />
         <Button
-            android:id="@+id/btnMinus"
+            android:id="@+id/btnMenos"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -156,25 +157,25 @@
         android:weightSum="4">
 
         <Button
-            android:id="@+id/btn0"
+            android:id="@+id/btnN0"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="0" />
         <Button
-            android:id="@+id/btnDot"
+            android:id="@+id/btnPunto"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="." />
         <Button
-            android:id="@+id/btnEquals"
+            android:id="@+id/btnIgual"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="=" />
         <Button
-            android:id="@+id/btnPlus"
+            android:id="@+id/btnSuma"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

@@ -1,4 +1,4 @@
-public  class Calculadora {
+public class Operaciones {
     private Double operando1;
     private Double operando2;
     private String operador;
